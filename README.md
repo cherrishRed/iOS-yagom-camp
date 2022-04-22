@@ -28,3 +28,10 @@
 |[🧮 계산기 I](https://github.com/cherrishRed/ios-calculator-app)|03.14 ~ 25|[STEP1](https://github.com/yagom-academy/ios-calculator-app/pull/164) [STEP2](https://github.com/yagom-academy/ios-calculator-app/pull/185) [STEP3](https://github.com/yagom-academy/ios-calculator-app/pull/204)|개인| [개굴](https://github.com/yoo-kie)
 
 ## ✅ 리뷰어 활동
+>리뷰기간: 2022.04.11 ~ 2022.04.24
+
+6기 리뷰
+|프로젝트|리뷰이|STEP1|STEP2|
+|------|--|---|----|
+|⚾️ 숫자 야구|[Judy](https://github.com/Judy-999), [borysarang](https://github.com/yusw10) |[PR](https://github.com/yagom-academy/ios-number-baseball/pull/98)|[PR](https://github.com/yagom-academy/ios-number-baseball/pull/111)
+|✊ 묵찌빠 게임|[예톤](https://github.com/yeeton37), [Groot](https://github.com/Groot-94)|[PR](https://github.com/yagom-academy/ios-rock-paper-scissors/pull/138)|[PR](https://github.com/yagom-academy/ios-rock-paper-scissors/pull/148)
