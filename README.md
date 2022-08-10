@@ -26,6 +26,7 @@
 |[✊ 묵찌빠 게임](https://github.com/cherrishRed/ios-rock-paper-scissors)|02.15 ~ 19|[STEP1](https://github.com/yagom-academy/ios-rock-paper-scissors/pull/113) [STEP2](https://github.com/yagom-academy/ios-rock-paper-scissors/pull/124)|[mmim](https://github.com/josh0318)|[chacha](https://github.com/ChaminLee)
 |[🧃 쥬스 메이커](https://github.com/cherrishRed/ios-juice-maker)|02.21 ~ 03.11|[STEP1](https://github.com/yagom-academy/ios-juice-maker/pull/181) [STEP2](https://github.com/yagom-academy/ios-juice-maker/pull/200)|[safari](https://github.com/saafaaari)| [steven](https://github.com/stevenkim18)
 |[🧮 계산기 I](https://github.com/cherrishRed/ios-calculator-app)|03.14 ~ 25|[STEP1](https://github.com/yagom-academy/ios-calculator-app/pull/164) [STEP2](https://github.com/yagom-academy/ios-calculator-app/pull/185) [STEP3](https://github.com/yagom-academy/ios-calculator-app/pull/204)|개인| [개굴](https://github.com/yoo-kie)
+|[🧮 계산기 II](https://github.com/cherrishRed/ios-calculator-app-team)|03.28 ~ 04.01|[STEP1](https://github.com/yagom-academy/ios-calculator-app/pull/214) [STEP2](https://github.com/yagom-academy/ios-calculator-app/pull/228)|[Tiana](https://github.com/Kim-TaeHyun-A) [Eddy](https://github.com/kimkyunghun3)| [개굴](https://github.com/yoo-kie)
 
 ## ✅ 리뷰어 활동
 >리뷰기간: 2022.04.11 ~ 2022.04.24
