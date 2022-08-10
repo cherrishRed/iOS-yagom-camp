@@ -27,6 +27,9 @@
 |[🧃 쥬스 메이커](https://github.com/cherrishRed/ios-juice-maker)|02.21 ~ 03.11|[STEP1](https://github.com/yagom-academy/ios-juice-maker/pull/181) [STEP2](https://github.com/yagom-academy/ios-juice-maker/pull/200)|[safari](https://github.com/saafaaari)| [steven](https://github.com/stevenkim18)
 |[🧮 계산기 I](https://github.com/cherrishRed/ios-calculator-app)|03.14 ~ 25|[STEP1](https://github.com/yagom-academy/ios-calculator-app/pull/164) [STEP2](https://github.com/yagom-academy/ios-calculator-app/pull/185) [STEP3](https://github.com/yagom-academy/ios-calculator-app/pull/204)|개인| [개굴](https://github.com/yoo-kie)
 |[🧮 계산기 II](https://github.com/cherrishRed/ios-calculator-app-team)|03.28 ~ 04.01|[STEP1](https://github.com/yagom-academy/ios-calculator-app/pull/214) [STEP2](https://github.com/yagom-academy/ios-calculator-app/pull/228)|[Tiana](https://github.com/Kim-TaeHyun-A) [Eddy](https://github.com/kimkyunghun3)| [개굴](https://github.com/yoo-kie)
+|[🌃 만국박람회](https://github.com/cherrishRed/ios-exposition-universelle)|04.11 ~ 4.22|[STEP1](https://github.com/yagom-academy/ios-exposition-universelle/pull/140) [STEP2](https://github.com/yagom-academy/ios-exposition-universelle/pull/149) [STEP3](https://github.com/yagom-academy/ios-exposition-universelle/pull/164)|[Doogie](https://github.com/doogie97)| [또치](https://github.com/TTOzzi)
+|[🏦 은행 창구 매니저](https://github.com/cherrishRed/ios-bank-manager)|04.25 ~ 05.06|[STEP1](https://github.com/yagom-academy/ios-bank-manager/pull/145) [STEP2](https://github.com/yagom-academy/ios-bank-manager/pull/159) [STEP3](https://github.com/yagom-academy/ios-bank-manager/pull/169) [STEP4](https://github.com/yagom-academy/ios-bank-manager/pull/177)|[OneTool](https://github.com/kimt4580)| [린생](https://github.com/jungseungyeo)
+
 
 ## ✅ 리뷰어 활동
 >리뷰기간: 2022.04.11 ~ 2022.04.24
